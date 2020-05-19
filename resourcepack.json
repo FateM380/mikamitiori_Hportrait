@@ -11,10 +11,10 @@
   },
   "replace": [
   
-    "extendRes/charactor/bamuwei_0/bighead.png",
-    "extendRes/charactor/bamuwei_0/full.png",
-    "extendRes/charactor/bamuwei_0/half.png",
-    "extendRes/charactor/bamuwei_0/smallhead.png",
-    "extendRes/charactor/bamuwei_0/waitingroom.png"
+    "extendRes/charactor/qianzhi/bighead.png",
+    "extendRes/charactor/qianzhi/full.png",
+    "extendRes/charactor/qianzhi/half.png",
+    "extendRes/charactor/qianzhi/smallhead.png",
+    "extendRes/charactor/qianzhi/waitingroom.png"
   ]
 }
