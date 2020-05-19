@@ -1,0 +1,20 @@
+{
+  "id": "mikamitiori_Hportrait",
+  "version": "1.0.0",
+  "name": "三上千织立绘魔改",
+  "author": "裏天翔",
+  "description": "三上千织立绘工口魔改。",
+  "preview": "preview.jpg",
+
+  "dependencies": {
+    "majsoul_plus": "^2.0.0"
+  },
+  "replace": [
+  
+    "extendRes/charactor/bamuwei_0/bighead.png",
+    "extendRes/charactor/bamuwei_0/full.png",
+    "extendRes/charactor/bamuwei_0/half.png",
+    "extendRes/charactor/bamuwei_0/smallhead.png",
+    "extendRes/charactor/bamuwei_0/waitingroom.png"
+  ]
+}
